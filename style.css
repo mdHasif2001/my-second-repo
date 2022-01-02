@@ -4,3 +4,8 @@ p{
 h3{
     color: red;
 }
+img{
+    display: inline;
+    height: 400px;
+    width: 441px;
+}
